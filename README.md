@@ -1,5 +1,5 @@
 # Fproject
-Getting and cleaning data final rpoject
+## "Getting and cleaning data" final project
 
 Here you can find the R code to perform the analisys. And Code book with the description of variables.
 
